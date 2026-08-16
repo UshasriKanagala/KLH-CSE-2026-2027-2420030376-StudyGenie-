@@ -1,4 +1,4 @@
-# KLH-CSE-2026-2027-2420030044-StudyGenie
+# KLH-CSE-2026-2027-2420030376-StudyGenie
 # StudyGenie: Adaptive AI-Powered Personalized Learning and Quiz Generation System
 
 ## Abstract
