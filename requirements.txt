@@ -1,0 +1,8 @@
+streamlit
+ollama
+pypdf
+python-docx
+nltk
+pandas
+scikit-learn
+matplotlib
